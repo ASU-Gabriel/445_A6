@@ -1,0 +1,7 @@
+C:\Users\gaorteg4\Source\Repos\445_A6\WebApp_A6\XMLService\bin\XMLService.dll.config
+C:\Users\gaorteg4\Source\Repos\445_A6\WebApp_A6\XMLService\bin\XMLService.dll
+C:\Users\gaorteg4\Source\Repos\445_A6\WebApp_A6\XMLService\bin\XMLService.pdb
+C:\Users\gaorteg4\Source\Repos\445_A6\WebApp_A6\XMLService\obj\Debug\XMLService.csproj.AssemblyReference.cache
+C:\Users\gaorteg4\Source\Repos\445_A6\WebApp_A6\XMLService\obj\Debug\XMLService.csproj.CoreCompileInputs.cache
+C:\Users\gaorteg4\Source\Repos\445_A6\WebApp_A6\XMLService\obj\Debug\XMLService.dll
+C:\Users\gaorteg4\Source\Repos\445_A6\WebApp_A6\XMLService\obj\Debug\XMLService.pdb
